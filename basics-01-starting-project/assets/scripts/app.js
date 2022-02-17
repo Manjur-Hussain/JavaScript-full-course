@@ -1,4 +1,5 @@
-let currentResult = 10;
+let currentResult = 50;
 
-currentResult = currentResult + 20:
-console.log(currentResult)
+currentResult = (currentResult + 20) / 2 + 9 * 5;
+
+outputResult(currentResult, '')
